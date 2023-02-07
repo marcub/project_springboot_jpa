@@ -7,7 +7,10 @@ Projeto Back-End Web Services de um sistema de pedidos pedidos de uma loja onlin
 
 
 ## Modelo conceitual
-![Modelo Conceitual](https://github.com/acenelio/assets/raw/main/sds1/modelo-conceitual.png)
+![Modelo Conceitual](https://github.com/marcub/project_springboot_jpa/blob/main/assets/domain-model.png)
+
+## Camadas lógicas
+![Camadas Lógicas](https://github.com/marcub/project_springboot_jpa/blob/main/assets/layout-layers.png)
 
 # Tecnologias utilizadas
 ## Back end
