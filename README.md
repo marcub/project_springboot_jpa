@@ -18,6 +18,8 @@ Projeto Back-End Web Services de um sistema de pedidos pedidos de uma loja onlin
 - Spring Boot
 - JPA / Hibernate
 - Maven
+- H2 DataBase
+- PostgreSQL
 
 # Autor
 
